@@ -1,0 +1,43 @@
+[
+  {
+    "email": "john.doe@example.com",
+    "password": "Password123",
+    "phoneNumber": "0501234567",
+    "address": {
+      "street": "Herzl",
+      "number": 10,
+      "city": "Tel Aviv"
+    },
+    "role": "user",
+    "firstName": "John",
+    "lastName": "Doe"
+  },
+  {
+    "email": "jane.smith@example.com",
+    "password": "SecurePass456",
+    "phoneNumber": "0521112233",
+    "address": {
+      "street": "Ben Gurion",
+      "number": 5,
+      "city": "Ramat Gan"
+    },
+    "role": "admin",
+    "firstName": "Jane",
+    "lastName": "Smith"
+  },
+  {
+    "email": "david.cohen@example.com",
+    "password": "MyStrongPass789",
+    "phoneNumber": "0541234567",
+    "address": {
+      "street": "Dizengoff",
+      "number": 120,
+      "city": "Tel Aviv"
+    },
+    "role": "user",
+    "firstName": "David",
+    "lastName": "Cohen"
+  }
+]
+
+
